@@ -1,6 +1,5 @@
 package com.app.test24.controller;
 
-import com.app.test24.entity.User;
 import jakarta.servlet.http.Cookie;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
